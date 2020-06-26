@@ -178,7 +178,10 @@
 
 		<div class="features">
 			<h3>Our Key Features</h3>			
-
+			<img src="images/2920021.png">
+			<div class="feature-content">
+				<span></span>
+			</div>
 		</div>
 
 		<div class="upcoming-events">
