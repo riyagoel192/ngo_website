@@ -253,6 +253,44 @@
 
 		<div class="footer">
 			
+			<div class="map">
+				
+				<span style="color: white;">map</span>
+
+				<div class="contact-us">
+					
+					<h4>Contact Us</h4>
+
+					<span class="dot"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+					<span class="address">59, Masoodpur Dairy<br>Vasant kunj<br>New Delhi -70</span>
+
+					<br><br><br><br>
+
+					<span class="dot"><i class="fa fa-phone" aria-hidden="true"></i></span>
+					<span class="address">+91 8459084690</span>
+
+					<br><br>
+
+					<span class="dot"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+					<span class="address"><a href="" class="mail-id">yefindia@gmail.com</a></span>
+
+				</div>
+
+				<div class="about-company">
+					
+					<span>About the organisation</span>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+				</div>
+
+				<div class="get-involved">
+					
+					<h4>Get Involved</h4>
+
+				</div>
+
+			</div>
 		</div>
 
 
