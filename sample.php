@@ -287,8 +287,19 @@
 				<div class="get-involved">
 					
 					<h4>Get Involved</h4>
+					<button type="button" class="btn btn-outline-secondary"><i class="fa fa-credit-card" aria-hidden="true"></i>DONATE NOW</button>
+					<br><br><br>
+					<button type="button" class="btn btn-outline-secondary"><i class="fa fa-users" aria-hidden="true"></i>BECOME A VOLUNTEER</button>
 
 				</div>
+
+				<i class="fa fa-square fa-3x" aria-hidden="true">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1190px;"></i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1250px;"></i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1310px;"></i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1370px;"></i>
 
 			</div>
 		</div>
