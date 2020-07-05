@@ -703,7 +703,7 @@ body
 	position: relative;
 	height: 70%;
 	width: 97%;
-	border: 1px solid white;
+	/*border: 1px solid white;*/
 	margin-top: -300px;
 	margin-left: 1080px;
 }
@@ -711,5 +711,41 @@ body
 .get-involved h4
 {
 	color: #F7DC6F;
-	margin-left: 100px;
+	margin-left: 115px;
+}
+
+.btn-outline-secondary
+{
+	margin-left: 60px;
+	margin-top: 30px;
+	position: absolute;
+	width: 70%;
+}
+
+.fa-credit-card
+{
+	position: absolute;
+	margin-left: -30px;
+	margin-top: 5px;
+}
+
+.fa-users
+{
+	position: absolute;
+	margin-left: -25px;
+	margin-top: 5px;
+}
+
+.fa-square
+{
+	margin-left: 1130px;
+	position: absolute;
+	margin-top: -10px;
+}
+
+.fa-facebook
+{
+	color: white;
+	position: absolute;
+	font-language-override: normal;
 }
