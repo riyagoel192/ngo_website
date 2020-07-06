@@ -53,6 +53,10 @@
 
 		</div>
 
+		<div id="quote">
+			yfnugnunumuk
+		</div>
+
 		<div id="main-block">
 		
 		</div>
@@ -62,11 +66,11 @@
 
 <script>
 
-	// function redirect()
-	// {
-	// 	//alert("hello user");
-	// 	window.location.href = "register.php"
-	// }
+	function redirect()
+	{
+		//alert("hello user");
+		window.location.href = "register.php"
+	}
 
 	function showmenu()
 	{
