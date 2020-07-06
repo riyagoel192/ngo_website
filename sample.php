@@ -294,12 +294,20 @@
 				</div>
 
 				<i class="fa fa-square fa-3x" aria-hidden="true">
-					<i class="fa fa-facebook" aria-hidden="true"></i>
+					<a href="#"><i class="fa fa-facebook" aria-hidden="true" style="font-size: 25px;"></i></a>
 				</i>
-				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1190px;"></i>
-				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1250px;"></i>
-				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1310px;"></i>
-				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1370px;"></i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1190px;">
+					<a href="#"><i class="fa fa-twitter" aria-hidden="true" style="font-size: 25px;"></i></a>
+				</i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1250px;">
+					<a href="#"><i class="fa fa-instagram" aria-hidden="true" style="font-size: 25px;"></i></a>
+				</i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1310px;">
+					<a href="#"><i class="fa fa-envelope" aria-hidden="true" style="font-size: 25px;"></i></a>
+				</i>
+				<i class="fa fa-square fa-3x" aria-hidden="true" style="margin-left: 1370px;">
+					<a href="#"><i class="fa fa-pinterest" aria-hidden="true" style="font-size: 25px;"></i></a>
+				</i>
 
 			</div>
 		</div>

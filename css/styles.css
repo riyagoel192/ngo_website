@@ -746,6 +746,85 @@ body
 .fa-facebook
 {
 	color: white;
+	display: inline-block;
+	margin-left: -26px;
+	margin-top: 12px;
 	position: absolute;
-	font-language-override: normal;
+	transition: .5s;
+	transform: translate(-10%, -10%);
+}
+
+.fa-facebook:hover
+{
+	transform: translateX(0px) rotate(360deg);
+	color: #514A9D;
+}
+
+.fa-twitter
+{
+	color: white;
+	display: inline-block;
+	margin-left: -29px;
+	margin-top: 12px;
+	position: absolute;
+	transition: .5s;
+	transform: translate(-10%, -10%);
+}
+
+.fa-twitter:hover
+{
+	transform: translateX(0px) rotate(360deg);
+	color: #24C6DC;
+}
+
+.fa-instagram
+{
+	color: white;
+	display: inline-block;
+	margin-left: -29px;
+	margin-top: 12px;
+	position: absolute;
+	transition: .5s;
+	transform: translate(-10%, -10%);
+}
+
+.fa-instagram:hover
+{
+	transform: translateX(0px) rotate(360deg);
+	color: #ed4264;
+	
+}
+
+.fa-pinterest
+{
+	color: white;
+	display: inline-block;
+	margin-left: -29px;
+	margin-top: 12px;
+	position: absolute;
+	transition: .5s;
+	transform: translate(-10%, -10%);
+}
+
+.fa-pinterest:hover
+{
+	transform: translateX(0px) rotate(360deg);
+	color: #fd1d1d;
+}
+
+.fa-envelope
+{
+	color: white;
+	display: inline-block;
+	margin-left: -29px;
+	margin-top: 12px;
+	position: absolute;
+	transition: .5s;
+	transform: translate(-10%, -10%);
+}
+
+.fa-envelope:hover
+{
+	transform: translateX(0px) rotate(360deg);
+	color: #fe8c00;
 }
