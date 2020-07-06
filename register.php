@@ -54,7 +54,7 @@
 		</div>
 
 		<div id="quote">
-			yfnugnunumuk
+			<img src="images/coffee.png">
 		</div>
 
 		<div id="main-block">

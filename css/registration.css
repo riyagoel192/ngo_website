@@ -5,13 +5,18 @@
 	position: relative;
 	border: 1px solid red;
 	margin-left: 200px;
-	margin-top: 200px;
+	margin-top: 250px;
 }
 
 #quote
 {
 	position: absolute;
 	width: 100%;
-	height: 200px;
-	border: 1px solid green;
+	height: 250px;
+}
+
+#quote img
+{
+	height: 250px;
+	width: 100%;
 }
