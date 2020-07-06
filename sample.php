@@ -324,9 +324,8 @@
 
 	function redirect()
 	{
-		alert("hello user");
-
-		//redirect to register page
+		//alert("hello user");
+		window.location.href = "register.php"
 	}
 
 	function showmenu()
